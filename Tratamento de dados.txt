@@ -1,0 +1,40 @@
+> var nome =  'Denis'
+undefined
+> typeof nome
+'string'
+> var cond = true
+undefined
+> typeof cond
+'boolean'
+> typeof null
+'object'
+
+>num.toFixed(2).replace('.', ',')
+'2,08'
+> num.toLocaleString('pt-br', {style: `currency`, currency: 'BRL'})
+'R$ 2.08'
+> typeof num
+'number'
+>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+> num.toFixed(2).replace('.', ',')
+'2,08'
+> num.toLocaleString('pt-br', {style: `currency`, currency: 'BRL'})
+'R$ 2.08'
+>

@@ -1,0 +1,5 @@
+array:
+indexOf()
+length
+push()
+for(let pos in array){}
